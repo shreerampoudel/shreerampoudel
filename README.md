@@ -4,6 +4,9 @@
   Welcome to Shreeram Poudel's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<p align="center">
+  <a href="https://github.com/SumanSharmaTech"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+and+maker.;A+flutter+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
+</p>
 
 # 💫 About Me:
 👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>📫 How to reach me: Portfolio - @shreerampoudel<br>⚡ Fun fact: I am fascinated by new Technologies and Tech.<br>🔫 My Hobbies: I love playing PC games
