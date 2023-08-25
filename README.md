@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/SumanSharmaTech"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+and+maker.;A+flutter+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
+  <a href="https://github.com/shreerampoudel"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+and+maker.;A+flutter+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
 </p>
 
 # 💫 About Me:
