@@ -8,6 +8,12 @@
   <a href="https://github.com/shreerampoudel"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+and+maker.;A+flutter+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
 </p>
 
+<p align="center">
+
+<a href="https://linkedin.com/in/shreeram-poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreeram" height="30" width="40" /></a>
+<a href="https://instagram.com/_imccr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shreeram" height="30" width="40" /></a>
+</p>
+
 # 💫 About Me:
 👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>📫 How to reach me: Portfolio - @shreerampoudel<br>⚡ Fun fact: I am fascinated by new Technologies and Tech.<br>🔫 My Hobbies: I love playing PC games
 
